@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html class="theme-dark" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=3.0" name="viewport" />
+// made and contributed by midhlaj midhshaah umar
+
+    <meta name="theme-color" content="#5865F2" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Discord Developer Portal" />
+    <meta property="og:title" content="Discord Developer Portal — API Docs for Bots and Developers" />
+    <meta
+      property="og:description"
+      content="Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with."
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@discord" />
+    <meta name="twitter:creator" content="@discord" />
+    <meta
+      property="twitter:description"
+      content="Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with."
+    />
+<link rel="stylesheet" href="/assets/532.b83a75915bbcd893fb0f.css" integrity="sha256-l7yaRkZSJTRZKYIFZq6e/Oz0RjwZ4Sz6qvDFutmCZac= sha512-aVVt/jT4qtcqlLGoLQIdZikOxxT8ep/DfcTwYR2xiaESVaNTEaOpN/9D6/UN+0Bg0wBTRxWF/SNMj7sTLOhtWw=="><link rel="icon" href="/assets/847541504914fd33810e70a0ea73177e.ico" /><meta property="og:image" content="/assets/4b357782daec4239711055c06af93881.png" />
+<meta property="twitter:image" content="/assets/4b357782daec4239711055c06af93881.png" />    <title>Discord Developer Portal</title>
+  </head>
+
+  <body>
+    <div id="app-mount"></div><script>window.GLOBAL_ENV = {
+      API_VERSION: 9,
+      API_ENDPOINT: '//discord.com/api',
+      WEBAPP_ENDPOINT: '//discord.com',
+      CDN_HOST: 'cdn.discordapp.com',
+
+      STRIPE_KEY: 'pk_live_CUQtlpQUF0vufWpnpUmQvcdi',
+      ADYEN_KEY: 'live_E3OQ33V6GVGTXOVQZEAFQJ6DJIDVG6SY',
+      MARKETING_ENDPOINT: '//discord.com',
+      RELEASE_CHANNEL: 'stable',
+      ALGOLIA_KEY: 'aca0d7082e4e63af5ba5917d5e96bed0',
+    };</script><script src="/assets/2dc804680282d87710e2.js" integrity="sha256-itO6crAB4twVp5NPHtGG2V116S0m/jV8fNVo7inNxZU= sha512-jFmi1uakQnxYywQ085ZGPpQVxKvLL+9fnMq4D2ZG+3Ow4U606XujmiqfZD1b/DgJavkXY509jf2RWNDy4IXaQQ=="></script><script src="/assets/828923abc7debda975c9.js" integrity="sha256-Ok61nus4UQWKqv7ARePYvh+Jv/gtRi/ozU/gjxOBZ7c= sha512-/zst/E6XfoBnK2TopFEv0UhrybWs6pk7Kb/geYAMcGlVtYyI31yhLva/v0Jc592Wug6e4/NwCHC12zQdbvvoFw=="></script><script src="/assets/39338b7a2edb86730ff9.js" integrity="sha256-x6yQECFmHv9LcpveOcxJkmgaZngMlBaLSKoSMthX1rI= sha512-Zm/+p1qrYWPaWliRmaa9YeJogoQVvWJgNHwTRQkQAKuxm51dZm76BvwO2oMyVJW4Aor5mfFzMoeIjf2nZRvGcw=="></script>  <script>(function(){var js = "window['__CF$cv$params']={r:'84df8f5a5e57007c',t:'MTcwNjY3ODk5OC4xNTQwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
